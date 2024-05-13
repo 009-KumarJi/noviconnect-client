@@ -213,7 +213,6 @@ const SignUpForm = () => {
           >
             Sign In
           </Button>
-          <LinearLoader/>
         </Paper>
       </Container>
     </div>
